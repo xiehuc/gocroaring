@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/RoaringBitmap/gocroaring"
+	"github.com/xiehuc/gocroaring"
 )
 
 var ordered []uint32
